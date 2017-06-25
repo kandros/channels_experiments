@@ -1,4 +1,5 @@
 # ChannelsExperiments
+Playground [Phoenix](http://www.phoenixframework.org/) channels using websockets
 
 To start your Phoenix server:
 
